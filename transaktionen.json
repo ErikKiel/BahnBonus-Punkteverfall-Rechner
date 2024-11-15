@@ -1,0 +1,907 @@
+{
+  "transactions": [
+    {
+      "transactionDate": "2024-11-23",
+      "earmarked": true,
+      "pointsBB": 11,
+      "pointsBC": 11,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-11-23",
+      "earmarked": true,
+      "pointsBB": 68,
+      "pointsBC": 68,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-11-23",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-11-16",
+      "earmarked": true,
+      "pointsBB": 55,
+      "pointsBC": 55,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-11-16",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-10-21",
+      "earmarked": false,
+      "pointsBB": 21,
+      "pointsBC": 21,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-10-21",
+      "earmarked": false,
+      "pointsBB": 23,
+      "pointsBC": 23,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-10-21",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-10-17",
+      "earmarked": false,
+      "pointsBB": 21,
+      "pointsBC": 21,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-10-17",
+      "earmarked": false,
+      "pointsBB": 15,
+      "pointsBC": 15,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-10-17",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-09-11",
+      "earmarked": false,
+      "pointsBB": 72,
+      "pointsBC": 72,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-09-11",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-08-31",
+      "earmarked": false,
+      "pointsBB": 114,
+      "pointsBC": 114,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-08-31",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-08-26",
+      "earmarked": false,
+      "pointsBB": 114,
+      "pointsBC": 114,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-08-26",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-08-22",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -13,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2024-08-17",
+      "earmarked": false,
+      "pointsBB": 6,
+      "pointsBC": 6,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-08-17",
+      "earmarked": false,
+      "pointsBB": 40,
+      "pointsBC": 40,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-08-17",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-07-26",
+      "earmarked": false,
+      "pointsBB": 6,
+      "pointsBC": 6,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-07-26",
+      "earmarked": false,
+      "pointsBB": 161,
+      "pointsBC": 161,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-07-26",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-07-24",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -60,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2024-07-13",
+      "earmarked": false,
+      "pointsBB": -28,
+      "pointsBC": -28,
+      "transactionCategory": "Fahrkartenkauf",
+      "transactionInfo": "Stornierung",
+      "ticketValidityDate": "2024-07-13",
+      "ticketClass": 2,
+      "ticketGrossPrice": -2765,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-07-13",
+      "earmarked": false,
+      "pointsBB": 29,
+      "pointsBC": 29,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-07-13",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-07-13",
+      "earmarked": false,
+      "pointsBB": 28,
+      "pointsBC": 28,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-07-13",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-17",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -261,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": -10,
+      "pointsBC": -10,
+      "transactionCategory": "Reservierung",
+      "transactionInfo": "Stornierung"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": 10,
+      "pointsBC": 10,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": 78,
+      "pointsBC": 78,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-05-12",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": 78,
+      "pointsBC": 78,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-05-12",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": 78,
+      "pointsBC": 78,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-05-12",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-12",
+      "earmarked": false,
+      "pointsBB": -78,
+      "pointsBC": -78,
+      "transactionCategory": "Fahrkartenkauf",
+      "transactionInfo": "Stornierung",
+      "ticketValidityDate": "2024-05-12",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-08",
+      "earmarked": false,
+      "pointsBB": 10,
+      "pointsBC": 10,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-05-08",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-05-08",
+      "earmarked": false,
+      "pointsBB": 37,
+      "pointsBC": 37,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-05-08",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-08",
+      "earmarked": false,
+      "pointsBB": 49,
+      "pointsBC": 49,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-05-08",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-08",
+      "earmarked": false,
+      "pointsBB": 37,
+      "pointsBC": 37,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-05-08",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-05-01",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -49,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2024-04-28",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-04-28",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-04-28",
+      "earmarked": false,
+      "pointsBB": -5,
+      "pointsBC": -5,
+      "transactionCategory": "Reservierung",
+      "transactionInfo": "Stornierung"
+    },
+    {
+      "transactionDate": "2024-04-26",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-04-26",
+      "earmarked": false,
+      "pointsBB": -5,
+      "pointsBC": -5,
+      "transactionCategory": "Reservierung",
+      "transactionInfo": "Stornierung"
+    },
+    {
+      "transactionDate": "2024-04-26",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-04-26",
+      "earmarked": false,
+      "pointsBB": 120,
+      "pointsBC": 120,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-04-26",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-04-26",
+      "earmarked": false,
+      "pointsBB": 120,
+      "pointsBC": 120,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-04-26",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-04-26",
+      "earmarked": false,
+      "pointsBB": -120,
+      "pointsBC": -120,
+      "transactionCategory": "Fahrkartenkauf",
+      "transactionInfo": "Stornierung",
+      "ticketValidityDate": "2024-04-26",
+      "ticketClass": 2,
+      "ticketGrossPrice": -11905,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2024-04-12",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -5,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2024-04-07",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -44,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2024-04-04",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-03-30",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2024-03-30",
+      "earmarked": false,
+      "pointsBB": 27,
+      "pointsBC": 27,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2024-03-30",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-12-28",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -48,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-12-16",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -63,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-12-05",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -41,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-12-03",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -30,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-12-02",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -94,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-09-13",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -45,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-09-11",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -6,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-09-09",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -45,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-09-03",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -15,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-08-22",
+      "earmarked": false,
+      "pointsBB": 13,
+      "pointsBC": 13,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-08-22",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-08-19",
+      "earmarked": false,
+      "pointsBB": -250,
+      "pointsBC": 0,
+      "transactionCategory": "Prämienbestellung",
+      "transactionInfo": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-07-24",
+      "earmarked": false,
+      "pointsBB": 60,
+      "pointsBC": 60,
+      "transactionCategory": "DB BC25 2 HK",
+      "transactionInfo": "Kauf"
+    },
+    {
+      "transactionDate": "2023-06-24",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -77,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-05-29",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -23,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-05-25",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -220,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-05-20",
+      "earmarked": false,
+      "pointsBB": -22,
+      "pointsBC": -22,
+      "transactionCategory": "Fahrkartenkauf",
+      "transactionInfo": "Stornierung",
+      "ticketValidityDate": "2023-05-20",
+      "ticketClass": 2,
+      "ticketGrossPrice": -2190,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-05-20",
+      "earmarked": false,
+      "pointsBB": 22,
+      "pointsBC": 22,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-05-20",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-05-17",
+      "earmarked": false,
+      "pointsBB": 96,
+      "pointsBC": 96,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-05-17",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-05-17",
+      "earmarked": false,
+      "pointsBB": 110,
+      "pointsBC": 110,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-05-17",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-05-17",
+      "earmarked": false,
+      "pointsBB": 55,
+      "pointsBC": 55,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-05-17",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-05-01",
+      "earmarked": false,
+      "pointsBB": 49,
+      "pointsBC": 49,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-05-01",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-04-30",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -60,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-04-12",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2023-04-07",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2023-04-07",
+      "earmarked": false,
+      "pointsBB": 39,
+      "pointsBC": 39,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2023-04-07",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2023-03-06",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -13,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2023-03-03",
+      "earmarked": false,
+      "pointsBB": 0,
+      "pointsBC": -27,
+      "transactionCategory": "Punkteverfall"
+    },
+    {
+      "transactionDate": "2022-12-28",
+      "earmarked": false,
+      "pointsBB": 48,
+      "pointsBC": 48,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-12-28",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-12-16",
+      "earmarked": false,
+      "pointsBB": 63,
+      "pointsBC": 63,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-12-16",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-12-05",
+      "earmarked": false,
+      "pointsBB": 41,
+      "pointsBC": 41,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-12-05",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-12-03",
+      "earmarked": false,
+      "pointsBB": 30,
+      "pointsBC": 30,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-12-03",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-12-02",
+      "earmarked": false,
+      "pointsBB": 5,
+      "pointsBC": 5,
+      "transactionCategory": "Reservierung"
+    },
+    {
+      "transactionDate": "2022-12-02",
+      "earmarked": false,
+      "pointsBB": 36,
+      "pointsBC": 36,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-12-02",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-12-02",
+      "earmarked": false,
+      "pointsBB": 53,
+      "pointsBC": 53,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-12-02",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-09-13",
+      "earmarked": false,
+      "pointsBB": 45,
+      "pointsBC": 45,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-09-13",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-09-11",
+      "earmarked": false,
+      "pointsBB": 6,
+      "pointsBC": 6,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-09-11",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-09-09",
+      "earmarked": false,
+      "pointsBB": 45,
+      "pointsBC": 45,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-09-09",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-09-03",
+      "earmarked": false,
+      "pointsBB": 15,
+      "pointsBC": 15,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-09-03",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-06-24",
+      "earmarked": false,
+      "pointsBB": 77,
+      "pointsBC": 77,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-06-24",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-05-29",
+      "earmarked": false,
+      "pointsBB": 23,
+      "pointsBC": 23,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-05-29",
+      "ticketClass": 2,
+      "ticketGrossPrice": 2300
+    },
+    {
+      "transactionDate": "2022-05-25",
+      "earmarked": false,
+      "pointsBB": 97,
+      "pointsBC": 97,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-05-25",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-05-25",
+      "earmarked": false,
+      "pointsBB": 123,
+      "pointsBC": 123,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-05-25",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-04-30",
+      "earmarked": false,
+      "pointsBB": 60,
+      "pointsBC": 60,
+      "transactionCategory": "DB BC25 1 Aktion Sale HK",
+      "transactionInfo": "Kauf"
+    },
+    {
+      "transactionDate": "2022-03-06",
+      "earmarked": false,
+      "pointsBB": 13,
+      "pointsBC": 13,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-03-06",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2022-03-03",
+      "earmarked": false,
+      "pointsBB": 27,
+      "pointsBC": 27,
+      "transactionCategory": "Fahrkartenkauf",
+      "ticketValidityDate": "2022-03-03",
+      "ticketClass": 2,
+      "ticketGrossPrice": 9999,
+      "startStationOutward": "redacted for privacy",
+      "destinationStationOutward": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2021-09-29",
+      "earmarked": false,
+      "pointsBB": -250,
+      "pointsBC": 0,
+      "transactionCategory": "Prämienbestellung",
+      "transactionInfo": "redacted for privacy"
+    },
+    {
+      "transactionDate": "2021-09-29",
+      "earmarked": false,
+      "pointsBB": -250,
+      "pointsBC": 0,
+      "transactionCategory": "Prämienbestellung",
+      "transactionInfo": "redacted for privacy"
+    }
+  ]
+}
