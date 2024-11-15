@@ -47,7 +47,7 @@ Um die Transaktionsdaten zu erhalten, die Seite [bahn.de/buchung/kundenkonto/bah
 ## Beispiel
 Ruft man das Skript mit dem Argument `2266` und der im Repository als Beispiel vorhandenen `transaktionen.json`-Datei auf:
    ```sh
-   python main.py 2266
+   python bahnbonus-calculator.py 2266
    ```
 Erhält man folgende Ausgabe:
 ```
