@@ -71,7 +71,7 @@ def main():
     difference_in_points = sum_of_points - current_bonus_points
 
     if difference_in_points > 0:
-        print(f'\nEs gibt einen Unterschied von {difference_in_points} Punkten. Dies stammt vrsl. von Premienausgaben. Dies wird nun berücksichtigt.')
+        print(f'\nEs gibt einen Unterschied von {difference_in_points} Punkten. Dies stammt vrsl. von Prämienausgaben. Dies wird nun berücksichtigt.')
         for quarter, points in reversed(bonus_points_per_quarter.items()):
             if points < difference_in_points:
                 bonus_points_per_quarter[quarter] = 0

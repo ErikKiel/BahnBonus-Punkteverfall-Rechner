@@ -69,7 +69,7 @@ Q4 2021: 0
 Summe der aus den Transaktionen berechneten Punkte: 2327
 Aktuelle Anzahl der BahnBonus Punkte: 2266
 
-Es gibt einen Unterschied von 61 Punkten. Dies stammt vrsl. von Premienausgaben. Dies wird nun berücksichtigt.
+Es gibt einen Unterschied von 61 Punkten. Dies stammt vrsl. von Prämienausgaben. Dies wird nun berücksichtigt.
 
 In Folgenden Quartalen laufen die Punkte ab:
 Q4 2024: 0
