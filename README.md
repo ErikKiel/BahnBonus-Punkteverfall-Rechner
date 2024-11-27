@@ -16,7 +16,7 @@ Dieses Skript ist als spontane Idee entstanden und nicht offiziell von der Deuts
 
 1. Dieses Repository klonen:
     ```sh
-    git clone https://github.com/ErKi1998/BahnBonus-Punkteverfall-Rechner.git
+    git clone https://github.com/ErikKiel/BahnBonus-Punkteverfall-Rechner.git
     cd BahnBonus-Punkteverfall-Rechner
     ```
 
